@@ -1,2 +1,6 @@
 ﻿  VtkTest.cpp
-  VtkTest.vcxproj -> D:\learn-git\VTK-Learning\VtkTest\x64\Debug\VtkTest.exe
+  main.cpp
+  qrc_VtkTest.cpp
+  moc_VtkTest.cpp
+    正在创建库 D:\learn-git\VTK\VtkTest\x64\Debug\VtkTest.lib 和对象 D:\learn-git\VTK\VtkTest\x64\Debug\VtkTest.exp
+  VtkTest.vcxproj -> D:\learn-git\VTK\VtkTest\x64\Debug\VtkTest.exe

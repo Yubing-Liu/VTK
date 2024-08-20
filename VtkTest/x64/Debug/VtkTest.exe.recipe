@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\learn-git\VTK-Learning\VtkTest\x64\Debug\VtkTest.exe</FullPath>
+      <FullPath>D:\learn-git\VTK\VtkTest\x64\Debug\VtkTest.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
